@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin Mulyo Syahidin</h1>
 <h3 align="center">Back end web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mulyosyahidin" alt="mulyosyahidin" /></a> </p>
-
 - 🌱 sedang mendalami **framework Laravel dan react JS**
 
 <h3 align="left">Connect with me:</h3>
