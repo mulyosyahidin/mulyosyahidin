@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Martin Mulyo Syahidin</h1>
-<h3 align="center">Back End Developer and Cloud Architect - Almost Full Stack</h3>
 
 <p style="margin-top: 40px"></p>
 
-![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,go,flutter,react,docker,kubernetes,aws,mysql,phpstorm)
+![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,laravel,nodejs,flutter,spring)
 
 
 <p align="left" style="margin-top: 50px; margin-bottom: 20px;">
@@ -11,4 +10,3 @@
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mulyosyahidin&show_icons=true&locale=en" alt="mulyosyahidin" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mulyosyahidin&show_icons=true&locale=en&layout=compact" alt="mulyosyahidin" />
